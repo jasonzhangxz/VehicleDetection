@@ -20,7 +20,7 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 [image1]: ./examples/examplesAndHogs.png
 [image2]: ./examples/multiScaleWindows.png
-[image3]: ./examples/testImagesOutput.jpg
+[image3]: ./examples/testImagesOutput.png
 [image4]: ./examples/test4.jpg
 [image5]: ./examples/test4Heatmap.png
 [image6]: ./examples/labelsMap.png
@@ -90,7 +90,7 @@ Ultimately I searched on four scales using YUV 3-channel HOG features in the fea
 ### Video Implementation
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (somewhat wobbly or unstable bounding boxes are ok as long as you are identifying the vehicles most of the time with minimal false positives.)
-Here's a [link to my video result](./project_video.mp4)
+Here's a [link to my video result](./project_video_output.mp4)
 
 
 #### 2. Describe how (and identify where in your code) you implemented some kind of filter for false positives and some method for combining overlapping bounding boxes.
